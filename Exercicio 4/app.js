@@ -6,3 +6,4 @@ function CalcularMedia(){
     let media = (parseFloat(n1) + parseFloat(n2) + parseFloat(n3) + parseFloat(n4)) / 4
     document.getElementById("resposta").innerHTML = media
 }
+// o parseFloat converte o número para decimal
